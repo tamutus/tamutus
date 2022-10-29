@@ -1,9 +1,12 @@
 # 🐐 Lavra @Tamutus
 ## Inventor and programmer of infrastructure for open source gift economy and grassroots community empowerment
 
-### 🌌 The programmer of Magnova
-Lead web developer for [Building On Life's Disenfranchisements](https://theboldprojectpa.org) and [Veritas Divining](https://veritasdivining.com)
-Volunteer at Moneyless Society
+### 💻 Lead Web Developer for:
+- 🌌 [Magnova](https://magnova.space)
+- 🏳️‍⚧️ [Building On Life's Disenfranchisements](https://theboldprojectpa.org)
+- 💎 [Veritas Divining](https://veritasdivining.com)
+
+###  Volunteer at Moneyless Society
 
 ### 🤝 I am always looking for people to help me make Magnova into the thing it is framed to become.
 
