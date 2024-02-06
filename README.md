@@ -11,9 +11,9 @@
 - 🏘  Villej
 
 ## Google sites
-[Villej hub](https://hub.villej.co)
-[Moneyless Society volunteer portal](https://hub.moneylesssociety.com)
-[Vtuber streaming site](https://stream.lavrat.space)
+- [Villej hub](https://hub.villej.co)
+- [Moneyless Society volunteer portal](https://hub.moneylesssociety.com)
+- [Vtuber streaming site](https://stream.lavrat.space)
 
 ###  Board Member at Moneyless Society
 
