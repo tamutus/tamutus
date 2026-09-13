@@ -2,7 +2,7 @@
 ## Inventor and programmer of infrastructure for open source gift economy and grassroots community empowerment
 
 ### 💻 Lead Web Developer for:
-- 🌌 [Magnova](https://magnova.space) ([source](https://github.com/tamutus/magnova))
+- 🌌 [Magnova](https://magnova.space) ([source](https://github.com/tamutus/magnova)) (HOSTING HIATUS)
 - 🌱 [Moneyless Society](https://hub.moneylesssociety.com)
 - 🏳️‍⚧️ [Building On Life's Disenfranchisements](https://theboldprojectpa.org)
 - 💎 [Veritas Divining](https://veritasdivining.com) ([source](https://github.com/tamutus/veritas-divining))
