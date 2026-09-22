@@ -4,18 +4,15 @@
 ### 💻 Lead Web Developer for:
 - 🌌 [Magnova](https://magnova.space) ([source](https://github.com/tamutus/magnova)) (HOSTING HIATUS)
 - 🌱 [Moneyless Society](https://hub.moneylesssociety.com)
-- 🏳️‍⚧️ [Building On Life's Disenfranchisements](https://theboldprojectpa.org)
 - 💎 [Veritas Divining](https://veritasdivining.com) ([source](https://github.com/tamutus/veritas-divining))
 - 🔥 Harrsoft
 - 👩‍🎨 Glitxz
 - 🏘  Villej
 
 ## Google sites
-- [Villej hub](https://hub.villej.co)
+- [Villej hub](https://sites.google.com/view/villej/home)
 - [Moneyless Society volunteer portal](https://hub.moneylesssociety.com)
 - [Vtuber streaming site](https://stream.lavrat.space)
-
-###  Board Member at Moneyless Society
 
 ### 🤝 I am always looking for people to help me make Magnova into the thing it is framed to become.
 
